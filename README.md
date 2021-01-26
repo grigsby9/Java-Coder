@@ -2,7 +2,7 @@
 
 A collection of programming-challenges to practice and develop fundamental skills in Java. 
 
-## Skill Level Development 
+## Skill Level 
     * Beginner
     * Intermediate 
     * Advanced
