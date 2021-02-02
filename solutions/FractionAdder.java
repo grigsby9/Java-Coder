@@ -24,7 +24,6 @@
  * otherwise 
  * 
  *   if denom1 does not equal denom2 
- *   
  *     calculate denomSum by multiplying denom1 by denom2
  *     calculate numerSum by (numer1 times denom2) plus (numer2 times denom1)
  *   
@@ -155,14 +154,12 @@ public class FractionAdder
 			}
 			
 			simplify = commonDivisor(numerSum,denomSum); //method call to obtain greatest common divisor
-		
 			numerSum = numerSum / simplify; //get simplified fraction
 			denomSum = denomSum / simplify; 
 			
 			//Display
 			System.out.printf("%nThe result is %d/%d", numerSum,denomSum); //display fraction	
 		}
-		
 	}//main
 		
 		/**
@@ -247,6 +244,5 @@ public class FractionAdder
 				}
 			}
 			return divisor; 	
-		}//commonDivisor
-	
+		}//commonDivisor	
 }//class
