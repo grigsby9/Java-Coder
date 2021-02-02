@@ -14,4 +14,4 @@ to enter a fraction such as 2/9 in a single input. Utilize helper methods for ob
 denominator of strings such as "3/4" from the user, and for computing the greatest common divisor of two
 integers.
 
-[solution] (solutions/FractionAdder.java)
+[solution] (/solutions/FractionAdder.java)
