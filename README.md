@@ -3,10 +3,9 @@
 A collection of programming-challenges to practice and develop fundamental skills in Java. 
 
 ## Skill Level 
-    * Beginner
-    * Intermediate 
-    * Advanced
+    * [Beginner] (BEGINNER.md)
+    * [Intermediate] (INTERMEDIATE.md)
+    * [Advanced] (ADVANCED.md)
 
 ### Note: 
-
-Under construction. Contributions welcome. 
+For educational purposes only. Under construction. Contributions welcome. 
